@@ -48,4 +48,4 @@ This README provides step-by-step instructions on how to test the model for the 
     Log Loss: 0.0300
 
     loss graph
-    ![Screenshot (993)](https://github.com/user-attachments/assets/07ce4af0-2af0-487d-881e-19822ca88230)
+![lossgraph](https://github.com/user-attachments/assets/583cfcaf-2e30-41fe-9310-1dcd15221a05)
