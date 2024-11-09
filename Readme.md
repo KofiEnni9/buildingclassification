@@ -26,13 +26,12 @@ This README provides step-by-step instructions on how to test the model for the 
 
 ## Testing the Model
 
-1. Prepare your test images:
-- Place your test images in a directory named `test_images`
+1. Place your test images in a directory named `pred_folder`
 
-2. Run the testing script:
+2. Run the `infer.py` with internet avaliable. 
 
+3. `infer.py` will output the predictions in your terminal 
 
-3. The script will output predictions for each image in the test directory.
 
 ## Additional Information
 
