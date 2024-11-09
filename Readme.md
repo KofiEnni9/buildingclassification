@@ -17,7 +17,7 @@ This README provides step-by-step instructions on how to test the model for the 
 
 
 3. Download the model weights:
-- Download `best_model.pth` from [provide your external drive link here]
+- Download `best_model.pth` from https://drive.google.com/drive/folders/1HUfknjhYScrgF9uFHLlaMTdBRALDI8C-?usp=sharing
 - Place `best_model.pth` in the root directory of the project
 
 ## Testing the Model
@@ -34,5 +34,4 @@ This README provides step-by-step instructions on how to test the model for the 
 
 - The model was trained on [briefly describe your dataset]
 - The model architecture is based on ResNet50 with custom modifications
-- For any issues, please contact [your contact information]
 
