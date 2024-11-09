@@ -48,4 +48,4 @@ This README provides step-by-step instructions on how to test the model for the 
     Log Loss: 0.0300
 
     loss graph
-    ![Loss Graph](https://private-user-images.githubusercontent.com/124000529/384628458-07ce4af0-2af0-487d-881e-19822ca88230.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzExNzQzNjYsIm5iZiI6MTczMTE3NDA2NiwicGF0aCI6Ii8xMjQwMDA1MjkvMzg0NjI4NDU4LTA3Y2U0YWYwLTJhZjAtNDg3ZC04ODFlLTE5ODIyY2E4ODIzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwOVQxNzQxMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMjA4MTZmYWFiYmI2MWYxOGZjY2RmNTk3MzFjNDI3NjZmMWJjOTljZmE1MDdiYmJkZmUzOTMxYTViNTFhMGYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JC2GcbyqeMWrdhhu6pd1WBDZwISzkpNpVNTK6Bsd-y8)
+    ![Screenshot (993)](https://github.com/user-attachments/assets/07ce4af0-2af0-487d-881e-19822ca88230)
