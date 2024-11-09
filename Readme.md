@@ -2,6 +2,10 @@
 
 This README provides step-by-step instructions on how to test the model for the Campus Vision Challenge.
 
+# team se7en
+ - Kofi Acheampong Ennin
+ - Sandys Ayuumah
+
 ## Requirements
 
 - Python 3.7+
@@ -32,6 +36,13 @@ This README provides step-by-step instructions on how to test the model for the 
 
 ## Additional Information
 
-- The model was trained on [briefly describe your dataset]
+- The model was trained on a RESNET50 pretrained with imagenet from pytorch
 - The model architecture is based on ResNet50 with custom modifications
 
+# the result of the model of after training for 11 epochs is as follows:
+
+    Accuracy: 0.9945
+    Precision: 0.9945
+    Recall: 0.9945
+    F1 Score: 0.9945
+    Log Loss: 0.0300
