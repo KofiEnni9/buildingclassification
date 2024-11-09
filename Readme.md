@@ -36,8 +36,9 @@ This README provides step-by-step instructions on how to test the model for the 
 
 ## Additional Information
 
-- The model was trained on a RESNET50 pretrained with imagenet from pytorch
+- The model is based on a RESNET50 pretrained on imagenet from pytorch
 - The model architecture is based on ResNet50 with custom modifications
+- before choosing this arhtecture, we tried efficientnet but resnet proved better for the task
 
 # the result of the model after training for 11 epochs is as follows:
 
