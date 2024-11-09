@@ -46,3 +46,6 @@ This README provides step-by-step instructions on how to test the model for the 
     Recall: 0.9945
     F1 Score: 0.9945
     Log Loss: 0.0300
+
+    loss graph
+    [alt text](https://photos.app.goo.gl/177GLfPV5MRRg6TL7)
