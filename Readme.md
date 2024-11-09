@@ -37,6 +37,7 @@ This README provides step-by-step instructions on how to test the model for the 
 
 - The model is based on a RESNET50 pretrained on imagenet from pytorch
 - Before choosing this architecture, we tried efficientnet, but Resnet proved better for the task.
+- compute limit using Colab may not have allowed as to explore full capabilities.
 
 # the result of the model after training for 11 epochs is as follows:
 
