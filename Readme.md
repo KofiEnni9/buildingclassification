@@ -47,5 +47,7 @@ This README provides step-by-step instructions on how to test the model for the 
     F1 Score: 0.9945
     Log Loss: 0.0300
 
- loss graph
+ 
 ![lossgraph](https://github.com/user-attachments/assets/583cfcaf-2e30-41fe-9310-1dcd15221a05)
+
+# loss graph
