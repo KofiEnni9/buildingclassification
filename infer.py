@@ -146,5 +146,5 @@ if __name__ == "__main__":
     for filename, (predicted_class, confidence) in results.items():
         print(f"File: {filename}")
         print(f"Predicted class: {predicted_class}")
-        print(f"Confidence: {confidence:.2%}")
+        # print(f"Confidence: {confidence:.2%}")
         print("-" * 50)
