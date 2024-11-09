@@ -39,7 +39,7 @@ This README provides step-by-step instructions on how to test the model for the 
 - The model was trained on a RESNET50 pretrained with imagenet from pytorch
 - The model architecture is based on ResNet50 with custom modifications
 
-# the result of the model of after training for 11 epochs is as follows:
+# the result of the model after training for 11 epochs is as follows:
 
     Accuracy: 0.9945
     Precision: 0.9945
