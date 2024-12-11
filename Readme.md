@@ -1,4 +1,4 @@
-# Campus Vision Challenge Model
+# Campus Vision Challenge Model(We won)
 
 This README provides step-by-step instructions on how to test the model for the Campus Vision Challenge.
 
